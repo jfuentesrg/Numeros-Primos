@@ -1,4 +1,4 @@
-class NumerosPrimos
+class NPrimos
 
 	def calcular(numero)	
 		a = 0 
